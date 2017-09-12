@@ -1,0 +1,7 @@
+This is text file1
+I have 5 lines here
+Line 1
+Line 2
+Line 3
+Line 4
+Line 5

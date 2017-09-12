@@ -1,0 +1,7 @@
+Hello Geeks
+You are Welcomes in text3 file
+You have four lines
+Line1
+Line2
+Line3
+Line4
